@@ -17,7 +17,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/t.me/internetfor_al"
+          "path": "/t.me/internetfor_al/foridul"
         }
       },
       "sniffing": {
@@ -33,7 +33,7 @@
         "response": {
           "status": 200,
           "headers": { "Content-Type": ["text/plain"] },
-          "body": "Prvtspyyy404"
+          "body": "foridul"
         }
       }
     }
